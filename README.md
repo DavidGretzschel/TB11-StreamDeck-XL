@@ -12,6 +12,9 @@ But good enough for now.
 ## purpose
 To provide a hotkey-profile with all the TB11-commands preset in a somewhat sensible order.
 To have those hotkeys easily accessible on the StreamDeck Xl, no mnemorization necessary.
+It's the first project I've been doing with the StreamDeck-meta-profile I created:
+https://github.com/DavidGretzschel/StreamDeckXL_Meta-Profile/blob/master/README.md
+
 
 ## to-do
 Figure out which shortcuts belong to the mixed ctrl/ctrl+shift-category. Clean that up.
