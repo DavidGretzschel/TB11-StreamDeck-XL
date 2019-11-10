@@ -30,8 +30,7 @@ Add used characters to all commands, so that people can passively mnemorize the 
 
 ## license stuff
 <div>Icons made by <a href="https://www.flaticon.com/authors/phatplus" title="phatplus">phatplus</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-Am supposed to edit this line to credit the author of the icons. Not sure if the HTML renders in Markdown.
-If not, I'll figure that out later.
+Specifically his aerospace pack.
 
 ## Installation
 Download hotkeys.txt and import in TB11>preferences>keybindings>Import.  
