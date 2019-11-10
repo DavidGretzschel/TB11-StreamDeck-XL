@@ -9,6 +9,7 @@ Somehow the wrong hotkeys got uploaded the last time. Had to redo a lot of the w
 This is compliant with TB 11, version 33 now. So a lot of the Mac-exclusive shortcuts have been purged.
 I added some icons.  A galaxy to signify unused hotkeys. A comet to show that something is not quite right.
 Others to seperate categories visually from one another, should a folder have multiple.
+Finding free-to-use icons isn't as difficult as I thought, so I think, that I'll be slowly adding good icons for everything.
 
 
 0.1
@@ -26,6 +27,11 @@ https://github.com/DavidGretzschel/StreamDeckXL_Meta-Profile/blob/master/README.
 ## to-do
 Figure out which shortcuts belong to the mixed ctrl/ctrl+shift-category. Clean that up.  
 Add used characters to all commands, so that people can passively mnemorize the hotkeys over time.  
+
+## license stuff
+<div>Icons made by <a href="https://www.flaticon.com/authors/phatplus" title="phatplus">phatplus</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+Am supposed to edit this line to credit the author of the icons. Not sure if the HTML renders in Markdown.
+If not, I'll figure that out later.
 
 ## Installation
 Download hotkeys.txt and import in TB11>preferences>keybindings>Import.  
