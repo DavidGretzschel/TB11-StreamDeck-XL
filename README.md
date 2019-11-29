@@ -50,6 +50,4 @@ Will figure out how to do that later, though.
 
 ## Installation
 TB11>preferences>keybindings>Import, select KeyboardShortcuts.txt
-![alt text](https://imgur.com/a/DAa69G9)
 Import StreamDeck-XL-profile.
-![alt text](https://imgur.com/a/EEmue3p)
