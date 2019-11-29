@@ -41,9 +41,6 @@ It's the first project I've been doing with the StreamDeck-meta-profile I create
 https://github.com/DavidGretzschel/StreamDeckXL_Meta-Profile/blob/master/README.md
 
 
-## to-do
-Figure out which shortcuts belong to the mixed ctrl/ctrl+shift-category. Clean that up.  
-Add used characters to all commands, so that people can passively mnemorize the hotkeys over time.  
 
 ## license stuff
 <div>Icons made by <a href="https://www.flaticon.com/authors/phatplus" title="phatplus">phatplus</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
@@ -52,5 +49,7 @@ More icons used, but those were purchased with a Premium membership, so I don't 
 Will figure out how to do that later, though.
 
 ## Installation
-Download hotkeys.txt and import in TB11>preferences>keybindings>Import.  
+TB11>preferences>keybindings>Import, select KeyboardShortcuts.txt
+![alt text](https://imgur.com/a/DAa69G9)
 Import StreamDeck-XL-profile.
+![alt text](https://imgur.com/a/EEmue3p)
