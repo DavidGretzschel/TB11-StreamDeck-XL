@@ -4,6 +4,10 @@ all commands assinged to a hotkey, all hotkeys organized in folders on the Strea
 
 ## version history
 
+0.3 [current]
+Moved Timeline>stuff away from shift-keybindings that are needed for starting a search in the Plex.
+Moved View>Timeline to the other Timeline-related commands.
+
 0.2
 Somehow the wrong hotkeys got uploaded the last time. Had to redo a lot of the work. Oh well...
 This is compliant with TB 11, version 33 now. So a lot of the Mac-exclusive shortcuts have been purged.
